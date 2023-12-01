@@ -1,0 +1,7 @@
+virtual_memory.cu(13): warning #68-D: integer conversion resulted in a change of sign
+
+virtual_memory.cu(13): warning #68-D: integer conversion resulted in a change of sign
+
+input size: 131072
+get index: 1
+pagefault number is 9215
